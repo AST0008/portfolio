@@ -1,5 +1,5 @@
 # General
-base_url = "https://anemone.pages.dev"
+base_url = "https://github.com/AST0008/ast-portfolio"
 compile_sass = false
 minify_html = true
 generate_feeds = true

@@ -1,21 +1,28 @@
 +++
 +++
 
-## Overview
+<img src="/logo.jpeg" alt="some cool text" style="max-width: 150px; border-radius: 10%; display: block  ;" />
 
-anemone theme is designed to provide a nearly no-JavaScript, efficient, and minimalist experience for your website. Embracing simplicity, the theme focuses on content and readability, ensuring a seamless user experience without unnecessary distractions.
+## Hey, I'm Ashwajit
 
-> *"Useless blockquote"*
+I build things that [usually] work. Currently breaking and fixing code at a remote startup
 
-## Blog Posts
+> _"I break things, fix them, and call it 'developement'"_
 
-Explore our insightful blog posts on a variety of topics:
+## What I'm Up to
 
-- 🥣 [Overview Post](./blog/overview-post)
-- 🥣 [Overview Post But in French](./fr/blog/overview-post)
-- 🈚 [Language Tests](./blog/language-tests)
-- 🔥 [Very Very Very Long Title And Very Very Very Short Content](./blog/very-very-very-long-title-and-very-very-very-short-content)
-- 📺 [Post Example With Headings And TOC](./blog/post-example-with-headings-and-toc)
+- Building [passy] - (a local password manager)
+- Learning [Langraph, MCP] (send help)
+- Probably sleeping right now
+- Powered by Tea
+
+## Random thoughts
+
+I write sometimes:
+
+- [Overview Post](./blog/overview-post)
+- [Language Tests](./blog/language-tests)
+- [Very Very Very Long Title And Very Very Very Short Content](./blog/very-very-very-long-title-and-very-very-very-short-content) -[Post Example With Headings And TOC](./blog/post-example-with-headings-and-toc)
 
 ## Tags
 
@@ -23,26 +30,18 @@ Browse our posts by tags:
 
 - [example](./tags/example)
 
-## Another List
+<!-- ## Another List
 
 Discover additional content:
 
 - With Subitems
   - With Subsubitems
   - [Example Page](./about)
-- this list is just the content of `content/_index.md`, the tests are shamelessly stolen from [no style, please!](https://www.getzola.org/themes/no-style-please/)
+- this list is just the content of `content/_index.md`, the tests are shamelessly stolen from [no style, please!](https://www.getzola.org/themes/no-style-please/) -->
 
-## Online Presence
+## Find me online
 
-Stay connected with us:
-
-- Email: [jgll6dij6@mozmail.com](mailto:jgll6dij6@mozmail.com)
-- Code Repositories: [Speyll@GitHub](https://github.com/Speyll)
+- Email: [ashwajittayade30@gmail.com](mailto:ashwajittayade30@gmail.com)
+- Code Repositories: [AST0008@GitHub](https://github.com/AST0008)
+- LinkedIn: [Ashwajit Tayade](https://www.linkedin.com/in/ashwajit-tayade-868709296/) (for the professional peeps)
 - @Speyll anywhere else.
-
-## Webrings
-
-Join our webrings and explore more:
-
-- 🈯 {{ webring(prev="#", webring="#", webringName="Random Webring", next="#") }}
-- 🎶 {{ webring(prev="#", webring="#", webringName="Another Webring", next="#") }}
