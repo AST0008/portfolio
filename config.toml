@@ -1,5 +1,5 @@
 # General
-base_url = "https://github.com/AST0008/ast-portfolio"
+base_url = "https://ast0008.github.io/portfolio"
 compile_sass = false
 minify_html = true
 generate_feeds = true
