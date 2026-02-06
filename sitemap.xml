@@ -3,36 +3,36 @@
     
     
         <url>
-            <loc>https://github.com/AST0008/ast-portfolio/about/</loc>
-            
-        </url>
-    
-        <url>
-            <loc>https://github.com/AST0008/ast-portfolio/journal/</loc>
+            <loc>https://ast0008.github.io/portfolio/journal/</loc>
             <lastmod>2019-10-05</lastmod>
         </url>
     
+        <url>
+            <loc>https://ast0008.github.io/portfolio/about/</loc>
+            
+        </url>
+    
     
     
         
         
             <url>
-                <loc>https://github.com/AST0008/ast-portfolio/blog/post-example-with-headings-and-toc/</loc>
+                <loc>https://ast0008.github.io/portfolio/blog/post-example-with-headings-and-toc/</loc>
                 <lastmod>2024-01-01</lastmod>
             </url>
         
             <url>
-                <loc>https://github.com/AST0008/ast-portfolio/blog/very-very-very-long-title-and-very-very-very-short-content/</loc>
+                <loc>https://ast0008.github.io/portfolio/blog/very-very-very-long-title-and-very-very-very-short-content/</loc>
                 <lastmod>2024-01-01</lastmod>
             </url>
         
             <url>
-                <loc>https://github.com/AST0008/ast-portfolio/blog/language-tests/</loc>
+                <loc>https://ast0008.github.io/portfolio/blog/language-tests/</loc>
                 <lastmod>2020-07-08</lastmod>
             </url>
         
             <url>
-                <loc>https://github.com/AST0008/ast-portfolio/blog/overview-post/</loc>
+                <loc>https://ast0008.github.io/portfolio/blog/overview-post/</loc>
                 <lastmod>2020-07-07</lastmod>
             </url>
         
