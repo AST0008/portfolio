@@ -1,7 +1,7 @@
 +++
 +++
 
-<img src="/logo.jpeg" alt="some cool text" style="max-width: 150px; border-radius: 10%; display: block  ;" />
+<img src="{{ url(path='logo.jpeg') }}" alt="Ashwajit's photo" style="max-width: 150px; border-radius: 10%; display: block;" />
 
 ## Hey, I'm Ashwajit
 
