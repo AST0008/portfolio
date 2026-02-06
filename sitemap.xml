@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    
+        <url>
+            <loc>https://github.com/AST0008/ast-portfolio/about/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://github.com/AST0008/ast-portfolio/journal/</loc>
+            <lastmod>2019-10-05</lastmod>
+        </url>
+    
+    
+    
+        
+        
+            <url>
+                <loc>https://github.com/AST0008/ast-portfolio/blog/post-example-with-headings-and-toc/</loc>
+                <lastmod>2024-01-01</lastmod>
+            </url>
+        
+            <url>
+                <loc>https://github.com/AST0008/ast-portfolio/blog/very-very-very-long-title-and-very-very-very-short-content/</loc>
+                <lastmod>2024-01-01</lastmod>
+            </url>
+        
+            <url>
+                <loc>https://github.com/AST0008/ast-portfolio/blog/language-tests/</loc>
+                <lastmod>2020-07-08</lastmod>
+            </url>
+        
+            <url>
+                <loc>https://github.com/AST0008/ast-portfolio/blog/overview-post/</loc>
+                <lastmod>2020-07-07</lastmod>
+            </url>
+        
+    
+</urlset>
