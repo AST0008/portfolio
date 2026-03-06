@@ -18,17 +18,20 @@ I build things that [usually] work. Currently breaking and fixing code at a remo
 
 ## Random thoughts
 
-I write sometimes:
+I ~Rant~ write  sometimes:  
 
-- [Overview Post](./blog/overview-post)
+<!-- - [Overview Post](./blog/overview-post)
 - [Language Tests](./blog/language-tests)
-- [Very Very Very Long Title And Very Very Very Short Content](./blog/very-very-very-long-title-and-very-very-very-short-content) -[Post Example With Headings And TOC](./blog/post-example-with-headings-and-toc)
+- [Very Very Very Long Title And Very Very Very Short Content](./blog/very-very-very-long-title-and-very-very-very-short-content) -->
+- [Why cant we have everything?](./blog/why-cant-we-have-everything)
+
+<!-- -[Post Example With Headings And TOC](./blog/post-example-with-headings-and-toc) -->
 
 ## Tags
 
 Browse our posts by tags:
 
-- [example](./tags/example)
+- [Rant](./tags/rant)
 
 <!-- ## Another List
 
@@ -44,4 +47,4 @@ Discover additional content:
 - Email: [ashwajittayade30@gmail.com](mailto:ashwajittayade30@gmail.com)
 - Code Repositories: [AST0008@GitHub](https://github.com/AST0008)
 - LinkedIn: [Ashwajit Tayade](https://www.linkedin.com/in/ashwajit-tayade-868709296/) (for the professional peeps)
-- @Speyll anywhere else.
+- Ashwajit anywhere else.
