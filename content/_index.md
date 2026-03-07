@@ -21,8 +21,8 @@ I build things that [usually] work. Currently breaking and fixing code at a remo
 I ~Rant~ write  sometimes:  
 
 <!-- - [Overview Post](./blog/overview-post)
-- [Language Tests](./blog/language-tests)
-- [Very Very Very Long Title And Very Very Very Short Content](./blog/very-very-very-long-title-and-very-very-very-short-content) -->
+- [Language Tests](./blog/language-tests) -->
+- [What is the Greatest TV Show?](./blog/what-is-the-greatest-tv-series/) 
 - [Why cant we have everything?](./blog/why-cant-we-have-everything)
 
 <!-- -[Post Example With Headings And TOC](./blog/post-example-with-headings-and-toc) -->
@@ -32,7 +32,7 @@ I ~Rant~ write  sometimes:
 Browse our posts by tags:
 
 - [Rant](./tags/rant)
-
+- [Entertainment](./tags/entertainment)
 <!-- ## Another List
 
 Discover additional content:
