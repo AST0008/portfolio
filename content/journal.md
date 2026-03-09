@@ -7,11 +7,11 @@ draft = false
 display_published = false
 +++
 
-## 2023-06-29 🔧
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus dignissim nulla et ornare. Vestibulum porta, risus eu ultrices condimentum, quam ante mattis massa, eget laoreet neque nisl ullamcorper nibh.
+## 2026-03-09 🔧
 
+Starting journaling here, so that I can have a ~false~ proof of myself being productive. I worked on Stikerly (my side project) today completed and tested Phase 6 which was meme api integration. But most of the time went on creating solutions for Shipd project Eris. Realised that training models requires so much time, especially Random Forest. Note for the future self, do only classifiction tasks, especially binary classification only. Way easier than regression.
 
-## 2023-06-28 😊
+<!-- ## 2023-06-28 😊
 Etiam vulputate nibh in magna feugiat viverra. Donec ultricies sagittis justo vel facilisis. Nulla sollicitudin felis eu tortor consectetur, ac sodales odio faucibus. Vivamus id ultrices orci, ut luctus dolor. Sed sem nibh, semper in posuere eget, dictum eget dui. Praesent nunc dolor, lacinia at tortor eget, sollicitudin sagittis turpis.
 
 {{ img(id="https://uploads-ssl.webflow.com/5ff0b3326e5782a256714165/638b6f3a3d8d2e6bad1cb03b_Random22.1.jpg", alt="xfx6800xt", class="textCenter") }}
@@ -23,7 +23,7 @@ Pellentesque iaculis diam leo, vel euismod libero finibus sed. Praesent ultrices
 Vivamus molestie, ipsum id ullamcorper facilisis, velit neque elementum metus, quis lacinia ligula felis et metus. Quisque at condimentum tellus, id venenatis turpis. Integer accumsan metus non mauris vulputate pretium.
 
 ## 2022-10-29 🍿
-vel mollis varius. Aenean non bibendum dui, eget facilisis turpis. Cras eleifend mi vel leo malesuada, ac vestibulum est condimentum. Aenean accumsan felis elit, sed porttitor nulla volutpat nec. In leo purus, condimentum ut augue sed, imperdiet dapibus sapien. Proin id ullamcorper nisi. 
+vel mollis varius. Aenean non bibendum dui, eget facilisis turpis. Cras eleifend mi vel leo malesuada, ac vestibulum est condimentum. Aenean accumsan felis elit, sed porttitor nulla volutpat nec. In leo purus, condimentum ut augue sed, imperdiet dapibus sapien. Proin id ullamcorper nisi.
 
 ## 2022-10-27 💢
-facilisis sapien, quis faucibus leo urna ut diam. Etiam eu dolor vestibulum, cursus odio at, aliquam nibh. Donec molestie metus non purus facilisis euismod. In interdum luctus libero, in mollis est tincidunt at. Nam congue, nibh nec tempus elementum, nunc sapien placerat felis, id dignissim sapien tellus a libero. Nunc at elementum tortor, eget scelerisque elit. Donec ultricies mi at accumsan semper. Pellentesque vehicula leo sed urna dapibus, quis feugiat arcu auctor. 
+facilisis sapien, quis faucibus leo urna ut diam. Etiam eu dolor vestibulum, cursus odio at, aliquam nibh. Donec molestie metus non purus facilisis euismod. In interdum luctus libero, in mollis est tincidunt at. Nam congue, nibh nec tempus elementum, nunc sapien placerat felis, id dignissim sapien tellus a libero. Nunc at elementum tortor, eget scelerisque elit. Donec ultricies mi at accumsan semper. Pellentesque vehicula leo sed urna dapibus, quis feugiat arcu auctor.  -->
