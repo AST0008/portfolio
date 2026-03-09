@@ -28,7 +28,7 @@
         {% endif %}
         <nav id="nav-bar">
             {% for nav_item in config.extra.header_nav %}
-            <a href="{{ nav_item.url }}" class="{% if current_url is defined and nav_item.url == current_url %}active{% endif %}">
+            <a href="{{ get_url(path=nav_item.url) }}" class="{% if current_url is defined and nav_item.url == current_url %}active{% endif %}">
                 {% set language_key = 'name_' ~ current_lang %}
                 {{ nav_item[language_key] }}
             </a>
